@@ -53,13 +53,13 @@ To set up and run our E-commerce Book Store on your local machine, follow these 
 1. Clone the repository from GitHub:
 
    ```
-   git clone https://github.com/your/repository.git
+  https://github.com/subhadiip333/totalitycorp-frontend-challenge.git
    ```
 
 2. Install project dependencies using npm or yarn:
 
    ```
-   cd e-commerce-book-store
+   cd totalitycorp-frontend-challenge
    npm install
    ```
 
